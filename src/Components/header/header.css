@@ -1,0 +1,32 @@
+.btnContainer {
+  max-height: 74px;
+}
+.btnContainer a {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.75;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+  min-width: 64px;
+  height: 40px;
+  padding: 6px 8px;
+  padding-top: 14px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: white;
+}
+.search_and_login a {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.75;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+  min-width: 64px;
+  padding: 6px 8px;
+  padding-top: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: white;
+}
