@@ -1,0 +1,33 @@
+.hoverDiv {
+  height: 220px;
+  width: 75%;
+  background-color: white;
+  z-index: 1200;
+  position: fixed;
+  top: 66.25px;
+  border-radius: 10px;
+  left: 5%;
+  right: 5%;
+  margin-top: 0;
+  transition: all 0.3s;
+}
+.divider {
+  height: 0;
+  width: 90%;
+  margin: auto;
+  border: solid black 1px;
+}
+.about_aastu {
+  list-style: none;
+  padding-top: 1%;
+  padding-left: 5%;
+}
+.about_aastu a {
+  text-decoration: none;
+  color: black;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.75;
+  letter-spacing: 0.02857em;
+}
