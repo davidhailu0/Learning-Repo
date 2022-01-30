@@ -1,0 +1,25 @@
+.footer {
+  background-color: black;
+  height: 300px;
+  z-index: -99;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+}
+p {
+  color: white;
+}
+address {
+  color: white;
+  font-size: 14px;
+  background-color: lightskyblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  font-stretch: semi-condensed;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
