@@ -13,6 +13,11 @@ p {
 }
 address {
   color: white;
+  font-size: 14px;
+  background-color: lightskyblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  font-stretch: semi-condensed;
 }
 a {
   text-decoration: none;
